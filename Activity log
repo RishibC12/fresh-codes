@@ -9,8 +9,6 @@ def getdate():
 # write a function that when executed takes as input client name
 # One more function to retrieve exercise or food for any client
 
-
-#bhai ye rha program
 import datetime
 def gettime():
     return datetime.datetime.now()
